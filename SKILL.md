@@ -11,7 +11,7 @@ O leitor deve conseguir acompanhar o que acontece, quem age, sobre o quê, em qu
 
 - **Planejar.** Leia [Planejamento](references/planejamento.md). Examine as fontes e o material existente, defina a hierarquia e descreva as cenas e os fluxos. Entregue o plano quando o pedido for de planejamento.
 - **Produzir ou corrigir.** Leia [Produção](references/producao.md). Trabalhe a partir da última versão e das decisões aprovadas. Por padrão, use exclusivamente ImageGen para criar, editar e montar a arte. Use código ou SVG para produção visual somente quando o usuário solicitar expressamente esse método.
-- **Auditar.** Leia [Auditoria](references/auditoria.md). Inspecione o material entregue no recorte solicitado. Se o usuário pedir confirmação antes do início, confirme o recorte e os critérios antes de abrir os arquivos. Entregue os achados. A edição começa mediante pedido para corrigir ou seguir com o plano.
+- **Auditar.** Leia [Auditoria](references/auditoria.md). Todo pedido de auditoria inicia uma nova revisão exaustiva da versão atual, imagem por imagem e bloco a bloco, inclusive quando o pedido diz apenas “faça auditoria”. Só reduza o recorte ou a profundidade mediante pedido explícito. Se o usuário pedir confirmação antes do início, confirme o recorte e os critérios antes de abrir os arquivos. Entregue os achados. A edição começa mediante pedido para corrigir ou seguir com o plano.
 
 Quando a tarefa combinar etapas, leia as referências correspondentes e siga a ordem solicitada. Trate exemplos do usuário como indícios da regra geral que ele quer ensinar. Aplique essa regra aos outros blocos pertinentes e respeite as exceções que ele já definiu.
 
