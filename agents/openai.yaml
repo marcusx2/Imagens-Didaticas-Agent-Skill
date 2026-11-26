@@ -1,0 +1,7 @@
+interface:
+  display_name: "Imagens Didáticas"
+  short_description: "Planeje, produza e audite imagens didáticas"
+  default_prompt: "Use $imagens-didaticas para planejar, produzir ou auditar esta imagem didática."
+  icon_small: "./assets/icon-small.png"
+  icon_large: "./assets/icon-large.png"
+  brand_color: "#33C3E9"

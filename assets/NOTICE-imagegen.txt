@@ -1,0 +1,6 @@
+Os arquivos icon-small.png e icon-large.png são adaptações de imagegen.png,
+distribuído com a skill ImageGen do Codex. A adaptação acrescenta uma pilha de
+livros à imagem-base.
+
+A imagem-base é distribuída sob Apache License 2.0. Uma cópia da licença está
+em LICENSE-imagegen.txt.
