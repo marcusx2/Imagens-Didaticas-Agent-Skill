@@ -17,7 +17,7 @@ Comece cada auditoria com uma leitura independente da versão atual, imagem por 
 - **Fluxos e setas.** Siga cada seta da origem à ponta. Confira o objeto que circula, a direção, a sequência, as ramificações, a condição e o resultado. A seta comunica o vínculo da fonte? Distinga simultaneidade, alternativas e etapas. Confira transições de falha, retomada e encerramento quando pertinentes.
 - **Correspondência conceitual.** A cena justifica o texto e os números? Exiba o elemento efetivamente analisado, a condição em que uma escolha foi feita e o que a cor indica naquele exemplo. Confira se abreviações, colunas ou rótulos introduzem uma interpretação que a fonte não sustenta.
 - **Convenções.** A legenda aparece antes do uso quando necessária? Os símbolos realmente aparecem nos pontos previstos? O mesmo símbolo tem o mesmo significado? Compare com as artes aprovadas para identificar trocas involuntárias de ícones, cores, proporções ou rótulos.
-- **Leitura e montagem.** Confira escala de fontes, respiro, alinhamento, cortes, espaços vazios, proporção e artefatos de exportação. Veja as junções para encontrar cortes em textos e setas ou erros de grade. Procure conteúdo espremido que mereça um bloco maior.
+- **Leitura e montagem.** Confira escala de fontes, respiro, alinhamento, cortes, espaços vazios, proporção e artefatos de exportação. Compare a largura e a altura finais com o alvo do projeto. Examine em detalhe os blocos mais densos, as junções e possíveis perdas de nitidez em relação aos blocos aprovados. Procure conteúdo espremido que mereça um bloco maior.
 
 ## Reporte e prepare a correção
 

@@ -17,6 +17,7 @@ Abra esta referência para planejar uma imagem nova, replanejar material existen
 - Quando ajudar a aprender, crie subgrupos pequenos com nomes reconhecíveis, de preferência de até três palavras. Agrupe por uma relação que o leitor possa explicar, como propósito, etapa, dependência, tipo de dado ou regra comum. Use a mesma terminologia da fonte para os itens oficiais e apresente o agrupamento de estudo como tal.
 - Use setas quando houver ordem, transferência, dependência, retorno ou ramificação que se possa explicar. Mostre condições e sentidos da relação. Na biblioteca fictícia, **Preparar as estantes** e **Conferir o catálogo** podem aparecer lado a lado, com duas setas convergindo para **Abrir ao público**, que depende das duas tarefas. Confirme a sequência na fonte antes de ligar itens numerados.
 - Planeje a posição de grupos que se referenciam. Oriente a conexão para o item certo e verifique se há espaço para ler o vínculo. Seções oficiais, agrupamentos de estudo e fluxo operacional podem coexistir.
+- Estime a largura, a altura e o espaço necessário para ler cada bloco antes de gerar a arte. Use como piso as duas dimensões em pixels da tela de destino, conforme [Resolução e formato](producao.md#resolução-e-formato). Escolha a proporção da prancha em função do conteúdo e aumente a tela de montagem quando os blocos exigirem mais espaço.
 
 ## Descreva as cenas
 

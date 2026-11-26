@@ -9,12 +9,12 @@ Skill para planejar, produzir, revisar e auditar imagens didáticas no Codex. Us
 1. Extraia o ZIP e coloque a pasta **imagens-didaticas** em **~/.codex/skills/**. O arquivo [SKILL.md](SKILL.md) fica diretamente dentro da pasta da skill.
 2. No Codex, mencione **$imagens-didaticas** na sua solicitação.
 
-A produção visual usa exclusivamente o ImageGen integrado ao Codex por padrão. Isso inclui reunir os blocos, inserir títulos e rótulos e desenhar setas. Código e SVG são opções sob pedido. O planejamento e a auditoria de imagens existentes podem ser feitos com o material fornecido.
+O ImageGen integrado ao Codex cria as ilustrações, os diagramas e os textos da prancha. Os blocos podem ser reunidos em uma tela maior para manter os detalhes legíveis ao ampliar. O planejamento e a auditoria de imagens existentes podem ser feitos com o material fornecido.
 
 ## Como a skill trabalha
 
 - **Planejamento.** Analisa as fontes, define o nível de detalhe e traduz cada ideia importante em uma cena ou diagrama. Quando o assunto tem hierarquia, capítulos ou categorias aparecem como regiões visuais contendo seus subitens.
-- **Produção.** Gera e reúne blocos ilustrados no ImageGen. Mantém as pranchas proporcionais, os símbolos consistentes e as legendas úteis. Entrega as imagens em JPG por padrão.
+- **Produção.** Gera blocos ilustrados e os reúne em uma prancha proporcional, com símbolos consistentes e legendas úteis. Usa como referência mínima o tamanho da tela em pixels e entrega em JPG por padrão.
 - **Auditoria.** Reavalia figuras, setas, textos, hierarquia, proporção, encaixes e fidelidade à fonte. Descreve os achados e deixa as correções para a etapa de edição.
 
 ## Exemplos de pedidos
