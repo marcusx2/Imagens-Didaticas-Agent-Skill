@@ -1,32 +1,27 @@
 # Planejamento
 
-Abra esta referência para planejar uma imagem nova, replanejar material existente ou transformar achados de auditoria em correções.
+## O que o aluno precisa aprender
 
-## Defina o conteúdo antes de desenhar
+1. Fixe o objetivo de estudo, o público, o recorte, as fontes e o nível de detalhe esperado. Em revisões, examine o material vigente e as decisões já aprovadas. Para estudo de prova, use o banco disponível e pertinente para identificar confusões recorrentes e ajustar a profundidade.
+2. Leia as seções e subseções da fonte dentro do recorte, inclusive rótulos genéricos como “Geral”. Para cada uma, identifique o que o aluno precisa conseguir explicar, reconhecer ou decidir. Use o sumário para se orientar e o conteúdo para decidir.
+3. Faça um mapa de cobertura. Marque cada item como **painel próprio**, **integrado a outro bloco** ou **fora do recorte**, com o motivo. Ao integrar, indique onde aparece a contribuição de cada item. Quando o usuário pedir cobertura integral, confira onde cada item do recorte fica representado. Use esse mapa para planejar e revisar o trabalho.
 
-1. Identifique público, objetivo de estudo, fontes, recorte e quantidade de imagens pedida. Consulte o material que o usuário quer preservar ou melhorar. Leia o texto e examine ilustrações, tabelas, ordem e tamanho efetivo.
-2. Faça uma análise própria do que precisa ser ensinado. Para uma norma, percorra a estrutura integral dentro do recorte e examine definições, listas, etapas, papéis, condições, exceções, relações e exemplos pertinentes. O sumário ajuda a localizar conteúdo. Leia também os trechos que sustentam cada cena.
-3. Se a questão é de estudo para prova e o banco está disponível e no escopo, use enunciados e distratores relevantes para aferir profundidade e identificar confusões recorrentes. Amplie a cobertura para situações análogas e aspectos pertinentes da fonte, mesmo que as questões disponíveis cobrem apenas um exemplo.
-4. Decida em que nível cada assunto entra. Uma panorâmica deve mostrar o propósito de uma técnica, um caso concreto e o resultado. Inclua as etapas necessárias para entender o mecanismo e indique o material complementar para detalhes que ele já explica.
-5. Registre a fonte e a seção das afirmações centrais. Quando o usuário pedir redação literal, fixe a edição, o trecho e o campo exatos. Preserve a distinção entre texto da fonte e rótulos ou exemplos didáticos. Em uma revisão, verifique também se algum conteúdo útil da imagem anterior sumiu.
+## Organize a prancha
 
-## Mostre a hierarquia no desenho
+- Agrupe introduções e definições quando a leitura conjunta ajudar. Dê espaço próprio a conteúdos que precisam de uma explicação independente, como processos centrais com decisões, retornos ou atividades paralelas. Distribua a área conforme o raciocínio e os exemplos que o aluno precisa acompanhar.
+- Preserve os títulos e códigos oficiais quando relevantes. Mostre a hierarquia com faixas, limites e espaçamento. Quando criar grupos de estudo dentro de uma seção, use nomes curtos que indiquem o vínculo entre seus itens.
+- Escolha uma ordem de leitura que apresente primeiro o que sustenta as decisões seguintes. Estime a área de cada região, preserve a proporção da prancha e aplique o piso de [resolução e formato](producao.md#resolução-e-formato).
+- Quando duas organizações forem plausíveis e a escolha mudar de forma importante a cobertura, a profundidade ou a sequência de leitura, apresente as opções e pergunte ao usuário qual atende melhor ao estudo. Resolva escolhas rotineiras com base na fonte e no objetivo.
 
-- Faça um mapa em níveis antes de distribuir os cartões. Use tema maior, categoria ou capítulo e, abaixo, seus subitens, quando essas camadas existirem. Num manual fictício de uma biblioteca itinerante, a região **3 Atendimento ao público** tem uma faixa própria e contém os blocos **3.1 Empréstimos** e **3.2 Devoluções**. Os agrupamentos criados para o estudo ficam dentro da seção correspondente.
-- Dê a cada nível um sinal visível. Use faixa com título e código e um recinto ou espaçamento que contenha os subitens. Cor pode reforçar essa leitura. Garanta que o pertencimento seja visível mesmo sem a cor. Entradas introdutórias podem ficar fora da hierarquia quando servirem ao conjunto.
-- Quando ajudar a aprender, crie subgrupos pequenos com nomes reconhecíveis, de preferência de até três palavras. Agrupe por uma relação que o leitor possa explicar, como propósito, etapa, dependência, tipo de dado ou regra comum. Use a mesma terminologia da fonte para os itens oficiais e apresente o agrupamento de estudo como tal.
-- Use setas quando houver ordem, transferência, dependência, retorno ou ramificação que se possa explicar. Mostre condições e sentidos da relação. Na biblioteca fictícia, **Preparar as estantes** e **Conferir o catálogo** podem aparecer lado a lado, com duas setas convergindo para **Abrir ao público**, que depende das duas tarefas. Confirme a sequência na fonte antes de ligar itens numerados.
-- Planeje a posição de grupos que se referenciam. Oriente a conexão para o item certo e verifique se há espaço para ler o vínculo. Seções oficiais, agrupamentos de estudo e fluxo operacional podem coexistir.
-- Estime a largura, a altura e o espaço necessário para ler cada bloco antes de gerar a arte. Use como piso as duas dimensões em pixels da tela de destino, conforme [Resolução e formato](producao.md#resolução-e-formato). Escolha a proporção da prancha em função do conteúdo e aumente a tela de montagem quando os blocos exigirem mais espaço.
+## Planeje as figuras
 
-## Descreva as cenas
+- Abra a prancha com o propósito do assunto e uma situação reconhecível. Para cada ideia relevante, planeje uma cena com atores, entradas, ação, condição e resultado. Use um mesmo exemplo quando ele ajudar a ligar etapas ou comparar conceitos. Em uma biblioteca fictícia, a figura pode mostrar quem confere a etiqueta de um livro devolvido, qual informação usa e para onde o exemplar segue.
+- Quando uma figura da fonte explicar um mecanismo central, percorra suas etapas, decisões, setas, retornos e atividades paralelas. Preserve as relações que sustentam o raciocínio. Para cada seta didática, defina o que sai, de onde, para onde e sob qual condição. Confira na fonte a ordem e o sentido das ligações.
+- Posicione exemplos junto da regra que esclarecem. Quando uma tabela resumir diferenças que exigem explicação, mostre os mecanismos nas figuras. Explique siglas na primeira ocorrência, reutilize símbolos com o mesmo papel e use legenda se ela ajudar a interpretar a cena.
+- Registre as seções da fonte que sustentam as afirmações centrais. Identifique cenários ilustrativos e preserve a redação e a edição quando o usuário pedir texto literal.
 
-- Abra cada prancha autônoma com uma pergunta ou uma frase que explique o propósito do conceito. Identifique a situação antes de introduzir componentes avulsos, siglas ou ferramentas.
-- Para cada afirmação importante, descreva o que o leitor vai ver. Identifique atores e objetos, entradas e saídas, estado inicial e final, caminho normal e condição de falha quando relevante. Registre rótulos exatos e o significado das setas. Use um cenário comum quando ele facilitar comparar imagens.
-- Faça a figura mostrar o mecanismo. Para explicar a triagem de livros devolvidos na biblioteca fictícia, desenhe dois livros chegando ao balcão, a conferência das etiquetas e as setas que levam cada livro à prateleira correspondente. O leitor vê o que entra, o critério usado e para onde vai cada item.
-- Ponha o exemplo ao lado da etapa ou da condição que ele esclarece. Se houver uma tabela comparativa, ilustre o papel de cada mecanismo antes de resumir as diferenças. Se um item exigir figura própria, planeje essa figura além do ícone do subgrupo. Use um ícone para lembrar um termo e uma cena ou fluxo para acompanhar uma ação.
-- Defina cedo o significado de cada cor, sigla e símbolo que se repete. Dê o nome por extenso na primeira ocorrência e explique o papel. Preserve os símbolos já aprovados e seu sentido. Use legenda só se a iconografia recorrente realmente economizar texto ou evitar ambiguidade.
+## Confira e entregue o plano
 
-## Entregue o plano
+Percorra a prancha planejada na ordem em que um aluno a leria. Confira se ele consegue explicar o papel de cada bloco, recontar os fluxos e distinguir condições ou conceitos parecidos. Volte ao mapa para verificar se os agrupamentos preservam a cobertura.
 
-Para cada prancha, apresente o título, a frase de abertura, as regiões ou blocos, o que será desenhado em cada um e como se ligam. Aponte as escolhas de profundidade e o que precisa de espaço para leitura. Em plano de correção, relacione o achado à mudança e ao resultado verificável esperado.
+Quando o usuário pedir o plano, apresente a sequência, a finalidade das regiões, as cenas, os vínculos e as decisões de profundidade. Em uma correção, ligue cada achado à mudança proposta e ao resultado que será conferido.

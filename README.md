@@ -13,7 +13,7 @@ O ImageGen integrado ao Codex cria as ilustrações, os diagramas e os textos da
 
 ## Como a skill trabalha
 
-- **Planejamento.** Analisa as fontes, define o nível de detalhe e traduz cada ideia importante em uma cena ou diagrama. Quando o assunto tem hierarquia, capítulos ou categorias aparecem como regiões visuais contendo seus subitens.
+- **Planejamento.** Identifica o que o aluno precisa conseguir explicar, organiza os tópicos por importância e transforma conceitos e relações em cenas ou diagramas.
 - **Produção.** Gera blocos ilustrados e os reúne em uma prancha proporcional, com símbolos consistentes e legendas úteis. Usa como referência mínima o tamanho da tela em pixels e entrega em JPG por padrão.
 - **Auditoria.** Reavalia figuras, setas, textos, hierarquia, proporção, encaixes e fidelidade à fonte. Descreve os achados e deixa as correções para a etapa de edição.
 

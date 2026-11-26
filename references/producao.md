@@ -4,7 +4,7 @@ Abra esta referência quando o usuário autorizar a geração, a correção ou a
 
 ## Prepare a série e os blocos
 
-1. Fixe o plano aprovado, o conjunto de símbolos, as artes de referência e a versão ativa. Use o formato de entrega pedido e adote JPG quando esse detalhe estiver em aberto. Consulte a skill **imagegen** para a produção visual.
+1. Trabalhe com a versão vigente, as decisões aprovadas e o mapa de cobertura de [Planejamento](planejamento.md). Confira o que cada bloco precisa ensinar e consulte a skill **imagegen** para produzi-lo.
 2. Divida a prancha em blocos por unidade didática. Em material denso, produza cada bloco separadamente com ImageGen. Um bloco deve conter a cena, seus rótulos e as explicações imediatas. Gere também no ImageGen as faixas, os títulos ou as conexões entre blocos que fizerem parte da arte final.
 3. Planeje o espaço real antes de consolidar. Para pranchas que precisam ser equilibradas, um ponto de partida é uma tela quase quadrada ou levemente horizontal, como 4:3. Ajuste em função da composição. Expanda as dimensões ao acomodar uma tabela maior, uma região de vários cartões ou um fluxo longo. Preserve a escala legível do conteúdo. Use espaços entre grupos para mostrar separação, evitando intervalos sem função.
 4. Dê ao gerador a cena, a relação espacial, o sentido das setas e o texto exato da parte. Indique o papel das imagens de referência. Em revisões, descreva as invariantes, incluindo identidade, direção do olhar, posição, escala, símbolos aprovados e relações que já funcionam, conforme o caso.
@@ -16,7 +16,7 @@ Abra esta referência quando o usuário autorizar a geração, a correção ou a
 - Para reunir blocos prontos, use a ferramenta raster disponível, inclusive via código. A montagem pode posicionar blocos inteiros, recortar margens, alinhar regiões e ajustar o tamanho proporcionalmente para acomodar os encaixes. O fundo da tela, as margens e os espaçamentos podem ser definidos na própria montagem. Sharp, Pillow e ImageMagick são exemplos intercambiáveis.
 - Em pranchas densas, prefira montagem raster em uma tela maior. Use os blocos aprovados na resolução em que foram gerados e preserve os pixels originais sempre que couberem. Faça os ajustes de composição sem redesenhar textos ou elementos didáticos. Caso use o ImageGen para reunir os blocos, confira se a saída conserva as dimensões e a legibilidade do material de origem.
 - Corrija o menor bloco que permite resolver o problema por completo. Regere e confira a região maior se a falha estiver na hierarquia, na leitura do fluxo ou numa duplicação. Preserve os demais blocos e os símbolos definidos. Se o erro voltar após uma regeneração, mude a estrutura da cena ou o encaixe que o causa e verifique o resultado esperado.
-- Inspecione o recorte afetado e seus encaixes. Confira texto, símbolos, figuras, setas e alinhamento antes de trocar a versão ativa. Depois, confira a composição inteira na tela. Verifique as características pedidas na arte efetivamente gerada.
+- Compare a arte gerada com o mapa de cobertura. Confira se cada bloco ensina a regra planejada, se as conexões continuam fiéis à fonte e se os encaixes funcionam na prancha completa. Inspecione texto, símbolos, setas e alinhamento antes de trocar a versão ativa.
 
 ## Resolução e formato
 

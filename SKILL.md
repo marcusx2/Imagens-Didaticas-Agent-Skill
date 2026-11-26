@@ -5,11 +5,11 @@ description: "Planeje, produza, revise ou audite infográficos e pranchas didát
 
 # Imagens didáticas
 
-O leitor deve conseguir acompanhar o que acontece, quem age, sobre o quê, em que ordem e com qual resultado. Use o texto para dar os nomes, as definições e as condições que a figura precisa explicar.
+Planeje como quem prepara o próprio material de estudo. Decida o que o aluno precisa conseguir explicar e dê espaço às cenas, às decisões e às relações que sustentam esse entendimento.
 
 ## Identifique a etapa pedida
 
-- **Planejar.** Leia [Planejamento](references/planejamento.md). Examine as fontes e o material existente, defina a hierarquia e descreva as cenas e os fluxos. Entregue o plano quando o pedido for de planejamento.
+- **Planejar.** Leia [Planejamento](references/planejamento.md). Use a fonte para decidir o que ensinar, o que agrupar e o que merece destaque. Entregue o plano quando o pedido for de planejamento.
 - **Produzir ou corrigir.** Leia [Produção](references/producao.md). Trabalhe a partir da última versão e das decisões aprovadas. Use ImageGen para criar e editar a arte. Uma ferramenta raster pode montar os blocos prontos em uma tela maior, inclusive via código. Produza a arte em código ou SVG somente se o usuário pedir esse método.
 - **Auditar.** Leia [Auditoria](references/auditoria.md). Todo pedido de auditoria inicia uma nova revisão exaustiva da versão atual, imagem por imagem e bloco a bloco, inclusive quando o pedido diz apenas “faça auditoria”. Só reduza o recorte ou a profundidade mediante pedido explícito. Se o usuário pedir confirmação antes do início, confirme o recorte e os critérios antes de abrir os arquivos. Entregue os achados. A edição começa mediante pedido para corrigir ou seguir com o plano.
 
