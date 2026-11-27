@@ -27,9 +27,14 @@ Abra esta referência quando o usuário autorizar a geração, a correção ou a
 ## Exporte e confirme a entrega
 
 - Por padrão, entregue o JPG final a partir do PNG mestre. Reserve o PNG para revisão e reexportação. Use um conversor de formato pronto para exportar a imagem concluída, preservando a composição. Se o usuário indicar um fator de escala, aplique-o ao mestre preservando a proporção. Respeite pedidos explícitos de outro formato ou de adiar a exportação.
-- Preserve o trabalho de referência e os blocos necessários para continuar. Produza uma cópia para as revisões quando a substituição do original não tiver sido pedida. Evite cópias intermediárias grandes sem função. Uma limpeza pedida pelo usuário deve respeitar o escopo indicado e as necessidades da revisão ativa.
 - Confira as dimensões finais nas duas direções. Abra o JPG entregue na resolução nativa e examine os blocos mais densos e os encaixes para detectar perda de nitidez, recortes ou deformações introduzidas na montagem.
 - Entregue os arquivos finais do conjunto juntos quando esse for o combinado. Dê links aos arquivos finais e indique as decisões relevantes de composição e exportação.
+
+## Mantenha os arquivos do projeto
+
+- Trabalhe em uma cópia ao revisar um original fornecido, salvo quando o usuário pedir a substituição. Mantenha a última versão validada durante a revisão. Assim que a nova versão e seus arquivos de trabalho forem conferidos, faça a limpeza do projeto como parte da produção, inclusive quando a exportação do JPG ficar para depois.
+- Conserve a entrega vigente, o PNG mestre, os blocos em uso e as fontes, referências, arquivos de montagem e registros necessários para revisar ou reproduzir a versão atual. Mantenha versões anteriores que ainda sirvam para uma comparação ou reversão necessária, ou que o usuário tenha pedido para guardar. Confira se a montagem e a próxima revisão conseguem usar o conjunto que ficará.
+- Apague versões substituídas, tentativas descartadas, prévias duplicadas e temporários que perderam a função. Confira os caminhos resolvidos antes de apagar e limite a limpeza aos arquivos de trabalho gerados para o projeto ativo. Preserve originais do usuário, entregas que ele arquivou, arquivos de outros projetos e caches compartilhados.
 
 ## Compatibilidade com Firefox
 
